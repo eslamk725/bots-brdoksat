@@ -1,2 +1,2 @@
-node Broadcast.js
+NODE bc.js
 pause
